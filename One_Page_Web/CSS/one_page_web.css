@@ -1,0 +1,18 @@
+form {
+    width: auto;
+    margin: auto;
+    border: medium;
+    border-radius: 5%;
+}
+
+form {
+    font-family: sans-serif;
+}
+
+#home {
+    font-family: sans-serif;
+}
+
+#gallery {
+    font-family: sans-serif;
+}
