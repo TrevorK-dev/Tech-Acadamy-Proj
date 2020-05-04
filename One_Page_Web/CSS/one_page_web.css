@@ -15,6 +15,14 @@ form {
 #gallery {
     font-family: sans-serif;
     font-size: x-large;
+<<<<<<< HEAD
+=======
+}
+
+h3 {
+    font-family: 'Lucida Sans';
+    font-size: x-large;
+>>>>>>> b15eef3d8a88750145c7b440cb4612d75ef622d3
 }
 
 h3 {
