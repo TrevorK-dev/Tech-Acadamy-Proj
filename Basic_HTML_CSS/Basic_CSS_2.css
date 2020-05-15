@@ -8,3 +8,17 @@ p {
 h1 {
 	text-shadow: 2px 2px #ff0000;
 }
+
+ul {
+	color: chocolate;
+	background-color: cornsilk;
+	font-style: italic;
+	text-align: center;
+}
+
+ol {
+	color: crimson;
+	background-color: darkgrey;
+	font-style: initial;
+	text-align: center;
+}
