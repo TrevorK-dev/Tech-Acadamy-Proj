@@ -117,7 +117,7 @@ section {
 .navbar:after {
     clear: both;
     display: table;
-    content: "";
+    content: " ";
 }
 
 .wrap {
@@ -133,7 +133,7 @@ section {
 .menu-container {
     max-height: 340px;
     margin: 0% auto;
-    content: "";
+    content: " ";
     width: 100%;
     position: fixed;
     z-index: 100;
@@ -332,5 +332,33 @@ FOOTER STYLES
     text-align: right;
 }
 
-
+/* Media Queries */
+@media all and (max-width:640px) and (min-width:381px) {
+    .head-main {
+        font-size: 26px;
+    }
+ }
+ @media all and (max-width:381px) and (min-width:200px) {
+    .head-main {
+        font-size: 24px;
+    }
+ }
+ 
+ @media (min-width: 768px) {
+    .container {
+        width: 750px;
+    }
+ }
+ 
+ @media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+ }
+ 
+ @media (min-width: 1200px) {
+    .container {
+        width: 1170px;
+    }
+ }
 
